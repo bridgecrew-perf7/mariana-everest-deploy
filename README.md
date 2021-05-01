@@ -1,2 +1,2 @@
 # mariana-everest-deploy
-Repo for storing production Everest releases
+Repo for storing production Everest releases.
