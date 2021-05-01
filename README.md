@@ -1,2 +1,2 @@
 # mariana-everest-deploy
-Test repo for testing electron-updater
+Repo for storing production Everest releases
